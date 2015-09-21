@@ -11,3 +11,5 @@ github_username:  akkrisan
 
 # Build settings
 markdown: kramdown
+
+gems: [bourbon]
